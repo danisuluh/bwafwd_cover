@@ -1,1 +1,0 @@
-# bwafwd_cover
